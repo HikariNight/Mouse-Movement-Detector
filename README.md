@@ -89,7 +89,3 @@ This app currently supports **Windows only**, due to its use of `win32api` and `
 Whether you're experimenting or just curious about your idle time, **MMD** gives you insight into your cursor's every move.
 
 > Because even the smallest twitch matters.
-
----
-
-Would you like me to generate a matching GitHub repo description and tags too?
