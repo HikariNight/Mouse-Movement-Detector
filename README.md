@@ -1,7 +1,3 @@
-Sure! Here’s a **professional, fun, and aesthetic** `README.md` tailored for your **Mouse Movement Detector (MMD)** project on GitHub. It's designed to inform while keeping a light and engaging tone:
-
----
-
 # 🖱️ Mouse Movement Detector (MMD)
 
 > A minimalist desktop app that tells you when your mouse is moving... and how *much*.
