@@ -30,7 +30,7 @@ Perfect for:
 ---
 
 ## 📸 Sneak Peek
-DoMM(in ms) - Duration of Mouse Movement (in milliseconds)
+DoMM (in ms) - Duration of Mouse Movement (in milliseconds)
 
 
 ![image](https://github.com/user-attachments/assets/a1896927-4690-45b0-974e-d4c235911c78)
