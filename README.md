@@ -7,14 +7,12 @@
 
 ## 🎯 What is MMD?
 
-**Mouse Movement Detector (MMD)** is a lightweight Python application that monitors and counts your mouse movements in real-time. Using a clean and simple **CustomTkinter GUI**, this app visually indicates whether your cursor is active — down to the millisecond — and how long it's been in motion.
+**Mouse Movement Detector (MMD)** is a lightweight Python application that monitors and counts your mouse movements in real-time. Using a clean and simple **CustomTkinter GUI**, this app visually indicates whether your cursor has been moved and for how long (down to the millisecond).
 
 Perfect for:
 
 * Testing custom mice or sensors
-* Creating idle-time-based workflows
 * Simple desktop experiments
-* Debugging ghost mouse issues 👻🖱️
 
 ---
 
